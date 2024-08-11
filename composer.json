@@ -1,0 +1,11 @@
+{
+    "name": "micha/phpiggy",
+    "description": "A php application for masterly and practice purpose",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mk"
+        }
+    ],
+    "require": {}
+}
